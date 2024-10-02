@@ -23,8 +23,8 @@ This Telegram bot can transcribe YouTube videos and voice messages, and then sum
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/telegram-transcription-bot.git
-   cd telegram-transcription-bot
+   git clone https://github.com/monivireakly/tg-bot-mlx.git
+   cd tg-bot-mlx
    ```
 
 2. Install the required packages:
